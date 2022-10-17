@@ -403,6 +403,7 @@ form{
 }
 .registration_line{
     margin: 0px;
+    border-bottom: #858EA2;
 }
 select{
     display: block;
