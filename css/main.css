@@ -402,7 +402,8 @@ form{
     border-radius: 6px;
 }
 .registration_line{
-    border-bottom: 1px solid #000000;
+    margin: 0px;
+
 }
 select{
     display: block;
