@@ -250,7 +250,6 @@ img{
 .design_item:hover{
     background: #1AAB7B;
 }
-
 .color:hover{
     color: #FFFFFF;
 } 
@@ -435,14 +434,14 @@ button{
 /* FOOTER STARTED */
 .site_end{
     background-color: #000;
-
+    
 }
 .site_footer{
     display: flex;
     align-items: flex-start;
     margin: 0;
     padding: 100px 0 50px;
-
+    
 }
 .services{
     margin-right: 151px;
@@ -477,7 +476,7 @@ button{
     font-weight: 500;
     font-size: 18px;
     line-height: 150%;
-     color: #A1A8B7; 
+    color: #A1A8B7; 
 }
 .footer_link:hover{
     color: #1AAB7B;
@@ -522,6 +521,7 @@ button{
     text-align: right;
     color: #FFFFFF;
 }
+
 
 
 /* FOOTER FINISHED */
